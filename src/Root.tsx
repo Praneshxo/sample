@@ -1,6 +1,5 @@
 import { Composition } from "remotion";
-import { FamilyTree } from "./FamilyTree"; // Import the type
-
+import { FamilyTree } from "./FamilyTree"; // Import t
 // Define the structure of the data (still useful for type safety)
 
 
